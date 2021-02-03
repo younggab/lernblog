@@ -2,7 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = ""
+image = "/media/surf_featured_1.jpg"
 color = ""
 +++
-
