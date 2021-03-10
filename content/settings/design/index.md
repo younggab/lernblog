@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = "/media/welle.jpg"
+image = "/media/surf_featured_1.jpg"
 color = ""
 +++
