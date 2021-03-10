@@ -8,6 +8,6 @@ description = ""
 
 ## Gabriel Schnegg
 
-info@lernblog.ch
 
-Ich bin Gabriel Schnegg und 19 Jahre alt. Ich bin im letzten Jahr an der WMB.
+
+info@lernblog.chIch bin Gabriel Schnegg und 19 Jahre alt. Ich bin im letzten Jahr an der WMB.
